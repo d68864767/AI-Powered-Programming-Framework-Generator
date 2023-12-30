@@ -1,0 +1,8 @@
+# requirements.txt
+
+# Web scraping and making HTTP requests
+requests==2.25.1
+beautifulsoup4==4.9.3
+
+# Standard library for Python
+python==3.8.5
